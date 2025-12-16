@@ -1,6 +1,6 @@
 # The ATNYCHI Kelly Break: Cryptographic Resonance Analysis & SHAARK Protocol
 
-**Author:** Brendon Joseph Kelly  
+**Author:** Brendon Joseph Kelly , Christopher Michael Cervantez , Korre Mahon Fuller, Robert Preston , Alfonso Orozco , Tionna Campbell . 
 **Runtime ID:** 1410-426-4743  
 **Classification:** CRYPTON-Ω // FINAL INTEGRATION  
 **Date:** August 30, 2025
